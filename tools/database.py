@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Alexander Suvorov. All right reserved.
 import sqlite3
 
 conn = sqlite3.connect('snake_game.db')
